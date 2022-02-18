@@ -1,6 +1,6 @@
-# Laravel 8.x for Laravel Shift
+# Laravel 9.x for Laravel Shift
 
-This repository contains the latest version of Laravel 8. It is used as a reference by [Laravel Shift - the automated way to upgrade Laravel applications](https://laravelshift.com).
+This repository contains the latest version of Laravel 9. It is used as a reference by [Laravel Shift - the automated way to upgrade Laravel applications](https://laravelshift.com).
 
 ## About Shift
 *Shift* focuses on providing [automated Shifts](https://laravelshift.com/shifts) and [Human Shifts](https://laravelshift.com/human-shifts) for upgrading and improving your Laravel, Lumen, PHP, and Tailwind projects.
@@ -19,14 +19,14 @@ Shifts for *Laravel* include:
 - [Laravel 6.x Shift - upgrade Laravel from 5.8 to 6.x](https://laravelshift.com/upgrade-laravel-5.8-to-laravel-6.0)
 - [Laravel 7.x Shift - upgrade Laravel from 6.x to 7.x](https://laravelshift.com/upgrade-laravel-6-to-laravel-7)
 - [Laravel 8.x Shift - upgrade Laravel from 7.x to 8.x](https://laravelshift.com/upgrade-laravel-7-to-laravel-8)
-- Laravel 9.x Shift - upgrade Laravel from 8.x to 9.x
-- [BrowserKit Tests Converter - upgrade tests from BrowserKit](https://laravelshift.com/upgrade-laravel-5.3-tests-to-laravel-5.4-tests)
+- [Laravel 9.x Shift - upgrade Laravel from 8.x to 9.x](https://laravelshift.com/upgrade-laravel-8-to-laravel-9)
 - [Laravel Linter - detect lint in your Laravel project](https://laravelshift.com/laravel-linter) 
 - [Laravel Analyzer - are you following the "Laravel Way"](https://laravelshift.com/opinionated-laravel-way-shift) 
 - [Laravel Fixer - automate changes to the "Laravel Way"](https://laravelshift.com/laravel-code-fixer)
 - [Laravel Tests Generator - generate HTTP tests for your Laravel application](https://laravelshift.com/laravel-test-generator) 
-- [Consolidate Namespace Shift - condense custom namespaces with Laravel](https://laravelshift.com/laravel-consolidate-custom-namespaces)
 - [Namespace Models Shift - move Models to app/Models](https://laravelshift.com/laravel-namespace-models)
+- [Consolidate Namespace Shift - condense custom namespaces with Laravel](https://laravelshift.com/laravel-consolidate-custom-namespaces)
+- [BrowserKit Tests Converter - upgrade tests from BrowserKit](https://laravelshift.com/upgrade-laravel-5.3-tests-to-laravel-5.4-tests)
 
 
 Shifts for *Lumen* include:
